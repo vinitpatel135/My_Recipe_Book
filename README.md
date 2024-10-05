@@ -14,10 +14,6 @@ backend - https://recipe-management-vezv.onrender.com
 - **Save Other Recipes:** Bookmark or save recipes from other users for future reference.
 - **Recipe Details:** View more details of a recipe, including a larger image and additional information.
 
-## Screenshots
-
-![img](https://i.postimg.cc/QtT1xRyy/Untitled-design-2.png)
-![img](https://i.postimg.cc/wT34cBnK/Untitled-design-3.png)
 
 ## Follow the steps below to set up and install the project dependencies.
 
