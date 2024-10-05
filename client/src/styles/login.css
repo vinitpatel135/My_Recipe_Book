@@ -1,0 +1,95 @@
+/* General styles */
+.formContainerNew {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #f0f4f8 30%, #e9ecef 100%);
+    padding: 20px;
+  }
+  
+  .formWrapper {
+    background: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Header section */
+  .formHeader {
+    margin-bottom: 30px;
+  }
+  
+  .logoNew {
+    width: 90px;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  .description {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 25px;
+  }
+  
+  /* Form styles */
+  .newForm {
+    width: 100%;
+  }
+  
+  .newInput {
+    height: 45px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .newInput:focus {
+    border-color: #007bff;
+    box-shadow: none;
+  }
+  
+  /* Button */
+  .submitButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 10px;
+    margin-top: 15px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submitButton:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Footer links */
+  .footerLink {
+    margin-top: 20px;
+  }
+  
+  .loginLink {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  
+  .loginLink:hover {
+    text-decoration: underline;
+  }
+  

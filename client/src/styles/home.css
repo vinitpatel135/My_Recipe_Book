@@ -1,0 +1,31 @@
+.recipeCard img {
+    height: 300px;
+    object-fit: cover;
+    background-position: center;
+}
+
+
+
+
+/* home.css */
+.sectionHeading {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.recipeCard {
+    border-radius: 10px; /* Rounded corners for cards */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s;
+}
+
+.recipeCard:hover {
+    transform: scale(1.02); /* Slightly scale up on hover */
+}
+
+.ant-btn {
+    width: 100%; /* Make buttons full-width */
+    margin-top: 10px;
+}
